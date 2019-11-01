@@ -1,0 +1,48 @@
+*{
+  font-family: Times New Roman;
+}
+
+body{
+  background-image: url(images/riveroflife.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 50% 95%;
+  background-position: top left;
+}
+img{
+  float: right;
+  top: 0%;
+  width: 10%;
+  height: 5%
+}
+
+#title {
+  font-size: 35px;
+}
+
+form{
+  width: 20%;
+  position: absolute;
+  right: 350px;
+  display: block;
+  margin-top: 0em;
+}
+
+.copyright{
+  position: absolute;
+  bottom: 5%;
+  right: 0;
+  font-size: 15px;
+  text-decoration: none;
+}
+
+footer{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+hr{
+  width: 10%;
+  border: 2px solid #5fb5c7;
+}
